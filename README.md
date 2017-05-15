@@ -1,15 +1,14 @@
 # DataScience101
 
-##![](https://ga-core.s3.amazonaws.com/production/uploads/program/default_image/1560/thumb_data_science.jpg)
+![](https://ga-core.s3.amazonaws.com/production/uploads/program/default_image/1560/thumb_data_science.jpg)
 
 
 <b/>Instructor:</b> <a href="https://www.linkedin.com/in/matthew-morris-4a58b72b/">Matthew Morris</a>
 
 <!-- **Note:** Prior to the first day of class complete the 10-15 hours of pre-work in order to be properly prepared for class [(prework)](https://gist.github.com/kevinmcalear/9e5625d5eac58fe35de8#account) -->
 
-Monday | Wednesday
 --- | ---
-**Research Design and Exploratory data analysis**|
+**Basic concepts and Environment and Exploratory data analysis**|
 12/5: [L01 Introduction to Data Science](#class-1) | 12/7: [L02 Research design and Pandas](#research-design)
 12/12: [L03 Statistics fundamentals](#stat_fund) | 12/14: [L04 Command Line and Version Control](#command-line)
 12/19: [L05 Fetching Data](#fetching-data), **Project Discussion Deadline** | 
@@ -37,17 +36,8 @@ Bonus content: [Naive Bayes Classifier](#bayes)|
 Bonus content: [Intro to Neural Networks](#nn) | 
 
 
-## Submission Forms
+## NEXT STEPS
 
-#### [Exit ticket form](https://docs.google.com/a/generalassemb.ly/forms/d/e/1FAIpQLSf5Xu6cWauNAhUfSMmYw5VUv8v4ADStBIQAqdbEmIIS-ziefw/viewform)
-<!--
-(https://docs.google.com/a/generalassemb.ly/forms/d/10L0tgB2X70bIHAzb1d0_4guWmCEqxavhQAHM1t1I4-Y/viewform)
--->
-####   [Homework and project submissions form] (https://docs.google.com/forms/d/1nF-2w3xoybfvAfLo-WFlXOW3lPGoQKxSYbSzkpxIBog/viewform)
-<!--
-(https://docs.google.com/forms/d/1S82LIibhiG2olZQb2C7iboqN5rb8wB6mQLFBg992eh4/viewform?usp=send_form)
--->
-* [Homework Evaluation Criteria](https://docs.google.com/spreadsheets/d/19XaVllCETEWyROSMHIShVWgUqK-kbZkvSeCzjK7yezI/edit?usp=sharing)
- &nbsp;
+
 
 * Slides https://github.com/Morrisdata/DataScience101/blob/master/gitPYTHON%20SETUP.pdf
