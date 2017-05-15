@@ -1,10 +1,9 @@
 # DataScience101
-##![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  DS-SEA-5 course repository
-![](https://ga-core.s3.amazonaws.com/production/uploads/program/default_image/1560/thumb_data_science.jpg)
-###General Assembly Data Science course
-**Location:** Seattle, WA
-<br><b>Class times:</b> Mon and Wed 6:30pm - 9:30pm</br>
-<b/>Instructor:</b> <a href="https://www.linkedin.com/profile/view?id=ADEAAAEai9UBI1CGmAPFMYpURJeL9zvxWX6xBqI">Jim Byers</a>
+
+##![](https://ga-core.s3.amazonaws.com/production/uploads/program/default_image/1560/thumb_data_science.jpg)
+
+
+<b/>Instructor:</b> <a href="https://www.linkedin.com/in/matthew-morris-4a58b72b/">Matthew Morris</a>
 
 <!-- **Note:** Prior to the first day of class complete the 10-15 hours of pre-work in order to be properly prepared for class [(prework)](https://gist.github.com/kevinmcalear/9e5625d5eac58fe35de8#account) -->
 
