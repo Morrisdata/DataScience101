@@ -10,6 +10,7 @@
 **Basic concepts and Environment and Exploratory data analysis**
 
 [Slides](https://github.com/Morrisdata/DataScience101/blob/master/gitPYTHON%20SETUP.pdf) 
+
 [Code Along](https://github.com/Morrisdata/DataScience101/blob/master/DS_intro.ipynb)
 
 ## NEXT STEPS
@@ -27,9 +28,3 @@ Python
 Data Science
 
 Check out info sessions.
-
-
-
-
-
-* Slides https://github.com/Morrisdata/DataScience101/blob/master/gitPYTHON%20SETUP.pdf
