@@ -1,6 +1,6 @@
 # DataScience101
 ##![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  DS-SEA-5 course repository
-(https://ga-core.s3.amazonaws.com/production/uploads/program/default_image/1560/thumb_data_science.jpg)
+![](https://ga-core.s3.amazonaws.com/production/uploads/program/default_image/1560/thumb_data_science.jpg)
 ###General Assembly Data Science course
 **Location:** Seattle, WA
 <br><b>Class times:</b> Mon and Wed 6:30pm - 9:30pm</br>
