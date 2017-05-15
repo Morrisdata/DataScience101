@@ -9,7 +9,7 @@
 
 --- | ---
 **Basic concepts and Environment and Exploratory data analysis**|
-12/5: [L01 Introduction to Data Science](#class-1) | 
+[gitPYTHON SETUP](#class-1) | 
 
 ## NEXT STEPS
 
