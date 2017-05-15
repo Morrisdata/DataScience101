@@ -7,9 +7,8 @@
 
 <!-- **Note:** Prior to the first day of class complete the 10-15 hours of pre-work in order to be properly prepared for class [(prework)](https://gist.github.com/kevinmcalear/9e5625d5eac58fe35de8#account) -->
 
---- | ---
 **Basic concepts and Environment and Exploratory data analysis**|
-[gitPYTHON SETUP](#class-1) | 
+[Slides](https://github.com/Morrisdata/DataScience101/blob/master/gitPYTHON%20SETUP.pdf) | 
 
 ## NEXT STEPS
 
