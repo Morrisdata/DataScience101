@@ -9,17 +9,17 @@
 
 **Basic concepts and Environment and Exploratory data analysis**
 
-[Slides] (https://github.com/Morrisdata/DataScience101/blob/master/gitPYTHON%20SETUP.pdf) 
-[Code Along] (https://github.com/Morrisdata/DataScience101/blob/master/DS_intro.ipynb)
+[Slides](https://github.com/Morrisdata/DataScience101/blob/master/gitPYTHON%20SETUP.pdf) 
+[Code Along](https://github.com/Morrisdata/DataScience101/blob/master/DS_intro.ipynb)
 
 ## NEXT STEPS
 Try connecting to and exploring bikeshare data
-[bikeshare] https://github.com/Morrisdata/DataScience101/blob/master/bikeshare.csv)
+[bikeshare](https://github.com/Morrisdata/DataScience101/blob/master/bikeshare.csv)
 
-[Basic Stats] (https://www.khanacademy.org/math/statistics-probability)
+[Basic Stats](https://www.khanacademy.org/math/statistics-probability)
 
 Learn Python the Hardway
-[Python] (https://learnpythonthehardway.org/book/)
+[Python](https://learnpythonthehardway.org/book/)
 
 GA
 Data Analytics
