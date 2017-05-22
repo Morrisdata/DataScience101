@@ -1,6 +1,7 @@
 # Review and Code Along with Dummy Variables
 - This workshop uses:
-[Notebook](https://github.com/Morrisdata/DataScience101/blob/master/Dummy_Variables/Dummy_Variables.ipynb)
+
+[Dummy Variable Notebook](https://github.com/Morrisdata/DataScience101/blob/master/Dummy_Variables/Dummy_Variables.ipynb)
 Data
 * For more information:
 
