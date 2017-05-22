@@ -22,7 +22,7 @@ Try connecting to and exploring bikeshare data
 Learn Python the Hardway
 [Python](https://learnpythonthehardway.org/book/)
 
-GA
+![GA](https://generalassemb.ly/education/ga-seattle-homecoming/seattle)
 
 Data Analytics
 Python
