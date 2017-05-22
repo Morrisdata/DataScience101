@@ -1,6 +1,7 @@
-# Conceptiual review and Code Along with Dummy Variables
+# Review and Code Along with Dummy Variables
 * to review long hand check out:
 [Social Research Methods](https://www.socialresearchmethods.net/kb/dummyvar.php)
+
 [WiKi](https://en.wikipedia.org/wiki/Dummy_variable_(statistics))
 
 
