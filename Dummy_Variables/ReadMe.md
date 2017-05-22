@@ -1,5 +1,8 @@
 # Review and Code Along with Dummy Variables
-* to review long hand check out:
+- This workshop uses
+Notebook
+Data
+* For more information:
 
 [Social Research Methods](https://www.socialresearchmethods.net/kb/dummyvar.php)
 
