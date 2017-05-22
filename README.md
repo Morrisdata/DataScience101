@@ -22,7 +22,10 @@ Try connecting to and exploring bikeshare data
 Learn Python the Hardway
 [Python](https://learnpythonthehardway.org/book/)
 
-[GA - suggested training path](https://generalassemb.ly/education/ga-seattle-homecoming/seattle)
+[GA -General Assembly](https://generalassemb.ly/)
+
+Here is my suggested Training path:
+
 This is for part time students looking to break into data science. I have taken or given these classes and this is what I would suggest for anyone looking to break into data. 
 
 Data Analytics workshop 
