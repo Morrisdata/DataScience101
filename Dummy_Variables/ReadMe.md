@@ -2,7 +2,8 @@
 - This workshop uses:
 
 [Dummy Variable Notebook](https://github.com/Morrisdata/DataScience101/blob/master/Dummy_Variables/Dummy_Variables.ipynb)
-Data
+
+[Data sets](https://github.com/Morrisdata/DataScience101/tree/master/Data)
 * For more information:
 
 [Social Research Methods](https://www.socialresearchmethods.net/kb/dummyvar.php)
