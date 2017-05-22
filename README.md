@@ -9,7 +9,8 @@
 
 **Basic concepts, Environment and Exploratory data analysis**
 
-[Slides](https://github.com/Morrisdata/DataScience101/blob/master/gitPYTHON%20SETUP.pdf) 
+[Slides](https://github.com/Morrisdata/DataScience101/blob/master/intro_to_data_science.pdf) 
+
 
 [Code Along](https://github.com/Morrisdata/DataScience101/blob/master/DS_intro.ipynb)
 
