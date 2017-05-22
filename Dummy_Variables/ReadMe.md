@@ -1,4 +1,3 @@
-![](http://www.clevelandmn.govoffice2.com/vertical/Sites/%7B581E59BA-AE7A-481A-81E0-862AA9F2D577%7D/uploads/%7BABD30A6A-EFC4-401F-82E9-721385E04A63%7D.JPG)
 # Review and Code Along with Dummy Variables
 
 - This workshop uses:
