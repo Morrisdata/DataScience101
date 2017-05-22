@@ -18,26 +18,20 @@
 Try connecting to and exploring bikeshare data
 [bikeshare](https://github.com/Morrisdata/DataScience101/blob/master/bikeshare.csv)
 
-[Basic Stats](https://www.khanacademy.org/math/statistics-probability)
-
-Learn Python the Hardway
-[Python](https://learnpythonthehardway.org/book/)
-
-[GA -General Assembly](https://generalassemb.ly/)
 
 Here is my suggested Training path:
 
 I have taken or given these classes and this is what I would suggest for anyone looking to break into Data Science 
 
-* Khan Academy Probability and Statistics
-* Learn Python the Hardway
-* Git Workshop
-* Data Analytics workshop 
-* Data Science workshop
-* SQL Bootcamp (optional)
-* Python Bootcamp(optional)
-* Data Analytics 10 week part time cohort
-* Data Science 10 week part time cohort
+* [Khan Academy Probability and Statistics](https://www.khanacademy.org/math/statistics-probability)
+* [Learn Python the Hardway](https://learnpythonthehardway.org/book/)
+* Git Workshop [GA -General Assembly](https://generalassemb.ly/)
+* Data Analytics workshop  [GA -General Assembly](https://generalassemb.ly/)
+* Data Science workshop [GA -General Assembly](https://generalassemb.ly/)
+* SQL Bootcamp (optional) [GA -General Assembly](https://generalassemb.ly/)
+* Python Bootcamp(optional) [GA -General Assembly](https://generalassemb.ly/)
+* Data Analytics 10 week part time cohort [GA -General Assembly](https://generalassemb.ly/)
+* Data Science 10 week part time cohort [GA -General Assembly](https://generalassemb.ly/)
 
 Attend meetups, networking events and look for oppurtuties for projects within your own business to get started. 
 Check out info sessions with teachers. 
