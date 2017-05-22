@@ -4,13 +4,6 @@
 [Dummy Variable Notebook](https://github.com/Morrisdata/DataScience101/blob/master/Dummy_Variables/Dummy_Variables.ipynb)
 
 [Data sets](https://github.com/Morrisdata/DataScience101/tree/master/Data)
-* For more information:
-
-[Social Research Methods](https://www.socialresearchmethods.net/kb/dummyvar.php)
-
-[WiKi](https://en.wikipedia.org/wiki/Dummy_variable_(statistics))
-
-
 
 ### Follow along (setup)
 * [Anaconda 2.7](https://www.continuum.io/downloads)
@@ -35,3 +28,8 @@ git init
 5) Pull files from my git repo
 git pull https://github.com/Morrisdata/DataScience101.git
 
+* For more information:
+
+[Social Research Methods](https://www.socialresearchmethods.net/kb/dummyvar.php)
+
+[WiKi](https://en.wikipedia.org/wiki/Dummy_variable_(statistics))
