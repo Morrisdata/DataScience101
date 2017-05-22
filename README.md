@@ -27,26 +27,17 @@ Learn Python the Hardway
 
 Here is my suggested Training path:
 
-This is for part time students looking to break into data science. I have taken or given these classes and this is what I would suggest for anyone looking to break into data. 
+I have taken or given these classes and this is what I would suggest for anyone looking to break into Data Science 
 
-Data Analytics workshop 
-
-Data Science workshop
-
-SQL Bootcamp (optional)
-
-Python Bootcamp(optional)
-
-Git Workshop
-
-Learn Python the Hardway
-
-Khan Academy
-
-Data Analytics 10 week part time cohort
-
-Data Science 10 week part time cohort
-
+* Khan Academy Probability and Statistics
+* Learn Python the Hardway
+* Git Workshop
+* Data Analytics workshop 
+* Data Science workshop
+* SQL Bootcamp (optional)
+* Python Bootcamp(optional)
+* Data Analytics 10 week part time cohort
+* Data Science 10 week part time cohort
 
 Attend meetups, networking events and look for oppurtuties for projects within your own business to get started. 
 Check out info sessions with teachers. 
