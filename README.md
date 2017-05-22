@@ -18,9 +18,6 @@
 Try connecting to and exploring bikeshare data
 [bikeshare](https://github.com/Morrisdata/DataScience101/blob/master/bikeshare.csv)
 
-
-Here is my suggested Training path:
-
 I have taken or given these classes and this is what I would suggest for anyone looking to break into Data Science 
 
 * [Khan Academy Probability and Statistics](https://www.khanacademy.org/math/statistics-probability)
