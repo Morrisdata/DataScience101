@@ -22,10 +22,27 @@ Try connecting to and exploring bikeshare data
 Learn Python the Hardway
 [Python](https://learnpythonthehardway.org/book/)
 
-[GA](https://generalassemb.ly/education/ga-seattle-homecoming/seattle)
+[GA - suggested training path](https://generalassemb.ly/education/ga-seattle-homecoming/seattle)
+This is for part time students looking to break into data science. I have taken or given these classes and this is what I would suggest for anyone looking to break into data. 
 
-Data Analytics
-Python
-Data Science
+Data Analytics workshop 
 
-Check out info sessions.
+Data Science workshop
+
+SQL Bootcamp (optional)
+
+Python Bootcamp(optional)
+
+Git Workshop
+
+Learn Python the Hardway
+
+Khan Academy
+
+Data Analytics 10 week part time cohort
+
+Data Science 10 week part time cohort
+
+
+Attend meetups, networking events and look for oppurtuties for projects within your own business to get started. 
+Check out info sessions with teachers. 
