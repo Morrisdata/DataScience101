@@ -32,5 +32,7 @@ I have taken or given these classes and this is what I would suggest for anyone 
 * Data Analytics 10 week part time cohort [GA -General Assembly](https://generalassemb.ly/)
 * Data Science 10 week part time cohort [GA -General Assembly](https://generalassemb.ly/)
 
+* great article on analytics [link](http://www.vlamis.com/blog/2015/6/4/the-four-realms-of-analytics.html)
+
 Attend meetups, networking events and look for oppurtuties for projects within your own business to get started. 
 Check out info sessions with teachers. 
