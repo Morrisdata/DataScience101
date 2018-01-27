@@ -28,7 +28,7 @@ I have taken or given these classes and this is what I would suggest for anyone 
 * Data Analytics workshop  [GA -General Assembly](https://generalassemb.ly/)
 * Data Science workshop [GA -General Assembly](https://generalassemb.ly/)
 * SQL Bootcamp (optional) [GA -General Assembly](https://generalassemb.ly/)
-* Python Bootcamp(optional) [GA -General Assembly](https://generalassemb.ly/)
+* Python for Data I & II Bootcamp(optional) [GA -General Assembly](https://generalassemb.ly/)
 * Data Analytics 10 week part time cohort [GA -General Assembly](https://generalassemb.ly/)
 * Data Science 10 week part time cohort [GA -General Assembly](https://generalassemb.ly/)
 
