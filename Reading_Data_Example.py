@@ -225,5 +225,13 @@ What areas are you doing great in, what areas do you need to study?
 This Project will grow and be designed and redesigned several different ways
 as you progress and revist.'''
 
-
+###############################################################################
+'''
+Want to learn more?
+Check out:
+SQL Bootcamp
+Python for Data I, II, III
+https://generalassemb.ly/
+'''
+###############################################################################
 
