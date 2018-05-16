@@ -11,7 +11,7 @@
 
 **Basic concepts, Environment and Exploratory data analysis**
 
-[Slides](https://github.com/Morrisdata/DataScience101/blob/master/Intro_to_data_science.pdf) 
+[Slides](https://github.com/Morrisdata/DataScience101/blob/master/Intro_to_Data_Science.pdf) 
 
 
 [Code Along](https://github.com/Morrisdata/DataScience101/blob/master/DS_intro.ipynb)
